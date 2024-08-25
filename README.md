@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akanksha Kulkarni</h1>
+<h1 align="center">Hi, I'm Akanksha Kulkarni</h1>
 <h1 align="center"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?size=338&amp;ext=jpg&amp;ga=GA1.1.2008272138.1724544000&amp;semt=ais_hybrid" width="212" height="212"></h1>
 
 <h3 align="center">I am a software engineer with a strong foundation in design and integration, combined with intuitive problem-solving skills. Proficient in a diverse set of technologies, including Operating Systems, Data Structures and Algorithms, C, C++, Java ,web developement, MYSQL .</h3>
